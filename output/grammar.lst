@@ -1,0 +1,372 @@
+grammar
+syntax
+sentence structure
+phrase structure
+syntax
+morphology
+inflectional morphology
+accidence
+derivational morphology
+compound morphology
+slot
+function word
+closed-class word
+headword
+head word
+grammatical category
+syntactic category
+subject
+subject
+object
+prepositional object
+object of a preposition
+direct object
+object of the verb
+indirect object
+retained object
+case
+grammatical case
+nominative
+nominative case
+subject case
+oblique
+oblique case
+accusative
+accusative case
+objective case
+dative
+dative case
+genitive
+genitive case
+possessive case
+vocative
+vocative case
+ablative
+ablative case
+ablative absolute
+adjunct
+constituent
+grammatical constituent
+immediate constituent
+construction
+grammatical construction
+expression
+misconstruction
+clause
+main clause
+independent clause
+coordinate clause
+subordinate clause
+dependent clause
+relative clause
+restrictive clause
+nonrestrictive clause
+descriptive clause
+complement
+involution
+parenthetical expression
+parenthetical
+phrase
+predicator
+noun phrase
+predicate
+verb phrase
+predicate
+split infinitive
+prepositional phrase
+pronominal phrase
+part of speech
+form class
+word class
+major form class
+noun
+verb
+infinitive
+adjective
+adverb
+modifier
+qualifier
+determiner
+determinative
+article
+definite article
+indefinite article
+preposition
+pronoun
+anaphoric pronoun
+demonstrative pronoun
+demonstrative
+conjunction
+conjunctive
+connective
+coordinating conjunction
+subordinating conjunction
+subordinate conjunction
+particle
+number
+person
+personal pronoun
+reciprocal pronoun
+relative pronoun
+first person
+second person
+third person
+reflexive pronoun
+reflexive
+gender
+grammatical gender
+feminine
+masculine
+neuter
+tense
+present
+present tense
+historical present
+aorist
+past
+past tense
+future
+future tense
+participle
+participial
+phrasal verb
+present participle
+past participle
+perfect participle
+transitive verb
+transitive verb form
+doubly transitive verb
+doubly transitive verb form
+intransitive verb
+intransitive verb form
+semantic role
+participant role
+affected role
+patient role
+patient
+agentive role
+agent
+benefactive role
+beneficiary
+instrumental role
+instrument
+locative role
+locative
+recipient role
+recipient
+resultant role
+result
+temporal role
+temporal
+double indemnity
+postposition
+grammatical meaning
+referent
+relatum
+term
+categorem
+categoreme
+catchphrase
+catch phrase
+grammatical rule
+rule of grammar
+transformation
+declension
+conjugation
+conjugation
+grammarian
+syntactician
+aristarchus
+donatus
+aelius donatus
+panini
+grammatical relation
+agreement
+concord
+number agreement
+person agreement
+case agreement
+gender agreement
+transitivity
+transitiveness
+intransitivity
+intransitiveness
+coreference
+reflexivity
+reflexiveness
+conjunction
+coordinating conjunction
+subordinating conjunction
+copulative conjunction
+disjunctive conjunction
+adversative conjunction
+complementation
+coordination
+subordination
+modification
+qualifying
+limiting
+restrictiveness
+apposition
+mood
+mode
+modality
+indicative mood
+indicative
+declarative mood
+declarative
+common mood
+fact mood
+subjunctive mood
+subjunctive
+optative mood
+optative
+imperative mood
+imperative
+jussive mood
+interrogative mood
+interrogative
+anaphoric relation
+voice
+active voice
+active
+passive voice
+passive
+inflection
+inflexion
+conjugation
+declension
+paradigm
+aspect
+perfective
+perfective aspect
+imperfective
+imperfective aspect
+durative
+durative aspect
+progressive aspect
+inchoative aspect
+progressive
+progressive tense
+imperfect
+imperfect tense
+continuous tense
+present progressive
+present progressive tense
+perfective
+perfective tense
+perfect
+perfect tense
+present perfect
+present perfect tense
+preterit
+preterite
+past perfect
+past perfect tense
+pluperfect
+pluferfect tense
+past progressive
+past progressive tense
+future perfect
+future perfect tense
+future progressive
+future progressive tense
+modify
+qualify
+punctuate
+mark
+moderate
+transitivize
+transitivise
+detransitivize
+detransitivise
+intransitivize
+intransitivise
+decelerate
+slow down
+retard
+deaden
+fishtail
+accelerate
+speed
+speed up
+inflect
+compare
+decline
+conjugate
+quote
+syntactically independent
+qualifying
+active
+dynamic
+stative
+active
+passive
+attributive
+prenominal
+predicative
+reflexive
+self-referent
+separative
+coordinating(a)
+coordinative
+subordinating(a)
+subordinative
+connecting
+copulative
+contrastive
+separative
+inflected
+uninflected
+independent
+main(a)
+dependent
+subordinate
+finite
+tensed
+infinite
+non-finite
+illative
+restricted
+qualified
+unrestricted
+correlative
+weak
+strong
+limiting
+nonrestrictive
+syndetic
+asyndetic
+transitive
+intransitive
+appositional
+appositive
+coreferential
+verbal
+personal
+notional
+modal
+grammatical
+grammatic
+syntactic
+syntactical
+adjectival
+adjective
+adverbial
+infinitival
+paradigmatic
+infinitive
+scopal
+partitive
+substantival
+gerundial
+appositively
+in apposition
+verbally
+syntactically
+adjectively
+adverbially
+attributively
+transitively
+adjectivally
+prepositionally
